@@ -1,0 +1,90 @@
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+D:\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+D:\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+D:\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+D:\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+D:\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+D:\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.pdb
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmSobre.resources
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.config
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.manifest
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.application
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe.manifest
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.application
+D:\Módulo 3\Alexandre - Programação desktop\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmRelogio.resources
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.config
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.manifest
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.application
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.pdb
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmRelogio.resources
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmSobre.resources
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe.manifest
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.application
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+D:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.config
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.manifest
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.application
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.pdb
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmRelogio.resources
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmSobre.resources
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe.manifest
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.application
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+E:\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmRelogio.resources
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmSobre.resources
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+D:\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmRelogio.resources
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmSobre.resources
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+C:\Users\claud\Downloads\Projetos para concluir\Trabalho final C#\PrjAgendaContatos\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csprojResolveAssemblyReference.cache
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmContatos.resources
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmRelogio.resources
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmSobre.resources
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.FrmPrincipal.resources
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.csproj.GenerateResource.Cache
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.pdb
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.config
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe.manifest
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.application
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.exe
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\bin\Debug\PrjAgendaContatos.pdb
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.exe.manifest
+C:\Users\claud\Downloads\Trabalho final de C#\PrjAgendaContatos\obj\Debug\PrjAgendaContatos.application
